@@ -8,7 +8,7 @@ This is an individual assessment. All work must be your own. Your challenge scor
 
 You are not allowed to collaborate during the sprint challenge.
 
-## Project Set Up
+### Project Set Up
 
 - [ ] Fork and clone the repo. Delete your old fork from Github first if you are repeating this Unit.
 - [ ] Open the assignment in Canvas and click on the "Set up git" option.
@@ -76,7 +76,12 @@ After finishing your required elements, you can push your work further. These go
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+    Dom is an interface that allows you to influence HTML using javascript.
 2. What is an event?
+    Anything that occurs on the browser window, including scrolling, clicking, and mouse-overing/hovering.
 3. What is an event listener?
+    A javascript function that listens for a specified event and executes a given task when the event is detected.
 4. Why would we convert a NodeList into an Array?
+    So that we can utilize and/or manipulate the data using array methods.
 5. What is a component?
+    An independent bit of code that can be reused.
